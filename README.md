@@ -1,1 +1,1 @@
-# ScreenSound
+# ScreenSound is a aplication that can read a music database (in this case a http database) and can filter the data for the user, after this the user can make a list with his favorite songs and convert that list to a .JSON archive.
